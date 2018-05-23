@@ -2,9 +2,13 @@ This is the first change to this file.
 
 Another line of code to the file we previously created
 
+<<<<<<< HEAD
 This is the change created from another file location
+=======
+This is the change destroyed from another file location
+>>>>>>> 691387574aeadd19110349a56fb99a2db2ae5460
 
-Change v4
+Change v4 
 
 <<<<<<< HEAD
 Change made from folder 3
