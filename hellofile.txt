@@ -6,4 +6,8 @@ This is the change made from another file location
 
 Change v4
 
+<<<<<<< HEAD
 Change made from folder 3
+=======
+Change made from folder 1
+>>>>>>> 790daf1a95527c38bb79627e79bc696e140ed2fc
