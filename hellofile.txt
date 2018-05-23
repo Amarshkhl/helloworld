@@ -5,3 +5,5 @@ Another line of code to the file we previously created
 This is the change made from another file location
 
 Change v4
+
+Change made from folder 3
